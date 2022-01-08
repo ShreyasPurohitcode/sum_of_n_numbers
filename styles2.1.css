@@ -1,0 +1,25 @@
+div {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 100px;
+    border-radius: 30px;
+    background-color: #23c1cc;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    font-family: Monaco;
+}
+
+form {
+    text-align: center;
+    text-decoration: #6495ed;
+}
+
+input {
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
